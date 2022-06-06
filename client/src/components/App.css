@@ -1,0 +1,11 @@
+.title {
+  font-family: "PretandardBold";
+}
+
+.text {
+  font-family: "Pretendard";
+}
+
+.card:hover {
+  transform: translate(-15px, -5px);
+}

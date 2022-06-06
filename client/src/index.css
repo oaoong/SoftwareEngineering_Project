@@ -1,0 +1,53 @@
+@import "~react-image-gallery/styles/css/image-gallery.css";
+
+@font-face {
+  font-family: "SuseongDotum";
+  src: url("./fonts/SuseongDotum.ttf");
+}
+
+@font-face {
+  font-family: "Pretendard";
+  src: url("./fonts/Pretendard-Medium.ttf");
+}
+
+@font-face {
+  font-family: "PretendardBold";
+  src: url("./fonts/Pretendard-Bold.ttf");
+}
+
+body {
+  font-family: "Pretendard";
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "Pretendard";
+}
+
+body {
+  font-family: "Pretendard";
+  font-size: 14px;
+  line-height: 1.5;
+  color: #24292e;
+  background-color: #fff;
+}
+
+.app {
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+input.error {
+  border-color: red;
+}
+
+.input-feedback {
+  color: red;
+  height: 5px;
+  margin-top: -12px;
+}
