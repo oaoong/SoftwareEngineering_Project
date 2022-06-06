@@ -2,7 +2,7 @@
 #### 2022-1 소프트웨어 공학 및 설계 학기말 프로젝트<br/><br/>
 
 ### YouTube 요약 영상 링크
-https://www.youtube.com/watch?v=TpeH6BjnLaI
+https://www.youtube.com/watch?v=HyBpK2ihH14
 
 ### 프로젝트 실행 법
 
